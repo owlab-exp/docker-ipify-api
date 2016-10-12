@@ -1,5 +1,5 @@
-NAME = osixia/ipify-api
-VERSION = 0.1.0
+NAME = owlab/ipify
+VERSION = 0.1.1
 
 .PHONY: all build build-nocache test tag_latest release
 
